@@ -12,4 +12,4 @@ Dependencies : Aircrack-ng & Cowpatty
 
 Optimized for Linux based systems only.
 
-# Developed by <a href="https://sffdg.com">Ashish Dave</a> (ADX) in 2016
+# Developed by <a href="https://instagram.com/ashishdave">Ashish Dave</a> (ADX) in 2016
