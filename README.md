@@ -1,18 +1,15 @@
-# WiFight, A Wireless Attacking Tool
-# Created by Ashish Dave
-# Copyright (c) By AD Hacker
-#
-# OPen Source Script to Attack Wireless Network
-#
-# Features :
-# 1. Wireless Deauthenticator
-# 2. Deauth all and Specific
-# 3. Random Beacon Spam
-# 4. Beacon Spam from text
-# 5. Wireless Cracker
-# 6. Uses Aircrack-ng & Cowpatty
-#
-# Open Source Simple Wireless Attack Script by AD Hacker 0\99
-#
-# Email : ad.hacker99@gmail.com
-# Website : adhacker.96.lt
+# WiFight v1.0
+An Open Source Script to Attack Wireless Network
+
+Features :
+1. WiFI Deauthenticator
+2. Deauth all and Specific APs
+3. Random Beacon Spam
+4. Beacon Spam from input Text
+5. Wireless Networking Cracking
+
+Dependencies : Aircrack-ng & Cowpatty 
+
+Optimized for Linux based systems only.
+
+# Developed by Ashish Dave (ADX) in 2016
