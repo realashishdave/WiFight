@@ -15,13 +15,7 @@ echo "|                                       |";
 echo "+=======================================+";
 echo
 echo "Wifi Fighter | WiFight, A Wireless Attacking Tool";
-echo "Created by AD h4Ck3R";
-echo
-echo "Copyright (c) by AD Hacker 0\99";
-echo "Email : ad.hacker99@gmail.com";
-echo "Website : adhacker.96.lt";
-echo
-echo "Usage ~ Wireless Attacking Tool";
+echo "Created by Ashish Dave [AD h4Ck3R]";
 echo
 echo " Menu";
 echo "------";
@@ -133,6 +127,8 @@ then
 elif test $opt -eq 7
 then
 airmon-ng stop wlan0mon
+echo "Thanks for using...!"
+sleep 5
 exit
 fi
 done
