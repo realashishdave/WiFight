@@ -9,7 +9,9 @@ Features :
 5. Wireless Networking Cracking
 
 Dependencies : Aircrack-ng & Cowpatty 
+$ sudo apt install aircrack-ng cowpatty
+
+$ Usage : sudo ./WiFight.sh
 
 Optimized for Linux based systems only.
-
 # Developed by <a href="https://instagram.com/ashishdave">Ashish Dave</a> (ADX) in 2016
